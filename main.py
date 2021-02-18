@@ -11,8 +11,8 @@ from curbelswingDGL import simulate
 # gibt es einen Zusammenhang zwischen beiden Größen, i. a. W. warum kann ψ nicht unabhängig von φ frei gewählt
 # werden? 
 
-# (c) Berechnen Sie numerisch die Größen ψ, ψ' und ψ'' als Funktion von φ fü̈r konstante Winkelgeschwindigkeit φ 
-# ̇ = ω. Erstellen Sie folgende Diagramme: ψ, ψ' und ψ'' ü̈ber φ. 
+# (c) Berechnen Sie numerisch die Größen ψ, ψ' und ψ'' als Funktion von φ fü̈r konstante Winkelgeschwindigkeit φ' =
+# ω. Erstellen Sie folgende Diagramme: ψ, ψ' und ψ'' ü̈ber φ.
 
 # (d) Geben Sie die Koordinaten des Punktes P in Abhängigkeit von φ und ψ an.
 
